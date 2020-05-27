@@ -67,7 +67,7 @@ class Normal(Distribution):
 		return self.stdev
 
 
-	def read_data_file(self, file_name, sample=True):
+	def read_input_file(self, file_name, sample=True):
 
 		"""Function to read in data from a txt file. The txt file should have
 		one number (float) per line. The numbers are stored in the data attribute.
