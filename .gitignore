@@ -1,0 +1,5 @@
+# virtualenv
+distributions-env/
+
+# Finder stuff
+.DS_Store
