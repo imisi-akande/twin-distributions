@@ -3,3 +3,6 @@ distributions-env/
 
 # Finder stuff
 .DS_Store
+
+## pycache
+twin_distribution/__pycache__/
