@@ -6,3 +6,5 @@ distributions-env/
 
 ## pycache
 twin_distribution/__pycache__/
+__pycache__/
+*.pyc
