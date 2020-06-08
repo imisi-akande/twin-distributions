@@ -1,3 +1,5 @@
+[![twin-distributions](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/imisi-akande/twin-distributions/6/workflows/e2eae2cf-d6fb-43c7-a723-471cd09364bb)
+
 # twin-distributions
 
 This Python module can be used to obtain the Binomial and Normal distribution.
