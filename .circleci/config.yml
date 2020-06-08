@@ -1,5 +1,4 @@
 version: 2
-
 jobs:
   build:
     docker:
@@ -14,7 +13,7 @@ jobs:
           name: Install Dependencies
       - run:
           command: |
-            sudo pip install coverage coveralls
+            source distributions-env/bin/activate
             coverage run --source=./twin_distribution -m unittest test.py
             coverage report -m
             coveralls
