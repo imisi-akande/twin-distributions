@@ -1,6 +1,6 @@
 import math
 import matplotlib.pyplot as plt
-from Generaldistribution import Distribution
+from .Generaldistribution import Distribution
 
 class Normal(Distribution):
 	""" Normal distribution class for calculating and visualizing a Normal distribution.
