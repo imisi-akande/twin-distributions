@@ -5,12 +5,17 @@
 This Python module can be used to obtain the Binomial and Normal distribution.
 
 ## Instructions
-- Clone the repository
+- Clone the repository:
     - ```Git clone https://github.com/imisi-akande/twin-distributions.git```
 
-- Change Directory
+- Enter your terminal and Change Directory:
     - ```cd twin-distributions```
-- Enter your terminal
+
+- Create a virtual environment:
+    - ```python3 -m venv distributions-env```
+
+- Activate environment:
+    - ```source distributions-env/bin/activate```
 
 - Install the module:
     - ```pip install .```
